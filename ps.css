@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.first{
+    background-image: url(position.jpg);width: 700px; height: 500px;  margin: 30px auto;
+    max-width: 1000px;
+    /*margin-left: 14em;*/
+    position: relative;
+}
+.image{
+    text-align: center;
+    padding: 2em;
+    
+}
+.second{
+    text-align: center;
+    padding: 2em;
+    position: absolute;
+    bottom: 20px;
+}
